@@ -20,6 +20,7 @@ Sou estudante de Ciência da Computação no CEUB e apaixonado por tecnologia e 
 
 #### 🔹 **Ferramentas e Outros**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Pacote Office](https://img.shields.io/badge/Pacote_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Google Docs & Planilhas](https://img.shields.io/badge/Google_Tools-4285F4?style=for-the-badge&logo=google&logoColor=white)

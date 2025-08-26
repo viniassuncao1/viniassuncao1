@@ -1,36 +1,37 @@
 ## Olá, eu sou o Vini! 👋  
 
-### 💻 Desenvolvedor em formação | Ciência da Computação 🚀  
+### 💻 Estagiário Full Stack | Ciência da Computação 🚀  
 
-E aí! Sou o **Vini**, estudante de **Ciência da Computação** no CEUB e apaixonado por tecnologia. Minha curiosidade me impulsiona a sempre querer entender como as coisas funcionam – especialmente quando envolvem **dados** e **Python**.  
+E aí! Sou o **Vini**, estudante de **Ciência da Computação** no CEUB e estagiário de **desenvolvimento full stack** na **Memora Processos Inovadores**. Atualmente trabalho com **Angular**, **Java Spring** e **SQL/PostgreSQL**, participando do desenvolvimento e manutenção de sistemas web.  
 
-Minha jornada começou com **Python**, e logo percebi que a área de **Ciência de Dados** tem tudo a ver comigo. Atualmente, estou me aprofundando em **Django** para o desenvolvimento back-end e estudando **SQL/MySQL** para manipulação e análise de dados. Fora da faculdade, continuo aprendendo de forma prática com cursos da **Alura** e outras plataformas.  
+Minha jornada na programação começou com **Python**, e sigo cultivando um interesse especial por **dados** e **inteligência artificial**. Além do trabalho, continuo aprendendo de forma prática com cursos da **Alura** e projetos pessoais em Python.  
 
-Já trabalhei como **auxiliar administrativo**, onde desenvolvi habilidades organizacionais e analíticas, e também como **professor estagiário de matemática**, o que me ajudou a aprimorar minha lógica e comunicação.  
-
-Se você também curte **dados**, **tecnologia** e um bom papo sobre **código**, bora conectar! Sempre aberto a trocar ideias e explorar novas oportunidades. 🚀  
+Já passei por experiências em áreas administrativas e de ensino, que me ajudaram a desenvolver habilidades de **organização, lógica e comunicação**. Hoje, busco evoluir constantemente como desenvolvedor, expandindo minhas habilidades em front-end, back-end e banco de dados, sem deixar de lado a curiosidade por **IA** e **ciência de dados**.  
 
 ---
 
-### 📚 O que estou estudando no momento?  
-- 🐍 **Python** (minha linguagem principal!)  
-- 🔥 **Django** (Começando no desenvolvimento back-end)  
-- 🛢️ **SQL e MySQL** (Banco de Dados)  
-- 📊 **Ciência de Dados** (Análise e manipulação de dados)  
+### 📚 O que estou estudando no momento  
+- ⚡ **Angular** (Front-end)  
+- ☕ **Java Spring** (Back-end)  
+- 🛢️ **SQL/PostgreSQL** (Banco de Dados)  
+- 🐍 **Python & IA** (Projetos pessoais)  
 
 ---
 
 ### 🚀 Minhas Skills  
 #### 🔹 **Linguagens e Tecnologias**  
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 
 #### 🔹 **Ferramentas e Outros**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)  
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![Pacote Office](https://img.shields.io/badge/Pacote_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)  
-![Google Docs & Planilhas](https://img.shields.io/badge/Google_Tools-4285F4?style=for-the-badge&logo=google&logoColor=white)  
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)  
 
 ---
 
@@ -44,10 +45,9 @@ Se você também curte **dados**, **tecnologia** e um bom papo sobre **código**
 
 ---
 
-### 📫 Onde me encontrar?  
+### 📫 Onde me encontrar  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iniciusassuncao/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/viniassuncao1)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vini.assuncao/)  
 
 Seja bem-vindo ao meu perfil! 😊  
-

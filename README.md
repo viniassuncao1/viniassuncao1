@@ -1,53 +1,96 @@
-## Olá, eu sou o Vini! 👋  
-
-### 💻 Estagiário Full Stack | Ciência da Computação 🚀  
-
-E aí! Sou o **Vini**, estudante de **Ciência da Computação** no CEUB e estagiário de **desenvolvimento full stack** na **Memora Processos Inovadores**. Atualmente trabalho com **Angular**, **Java Spring** e **SQL/PostgreSQL**, participando do desenvolvimento e manutenção de sistemas web.  
-
-Minha jornada na programação começou com **Python**, e sigo cultivando um interesse especial por **dados** e **inteligência artificial**. Além do trabalho, continuo aprendendo de forma prática com cursos da **Alura** e projetos pessoais em Python.  
-
-Já passei por experiências em áreas administrativas e de ensino, que me ajudaram a desenvolver habilidades de **organização, lógica e comunicação**. Hoje, busco evoluir constantemente como desenvolvedor, expandindo minhas habilidades em front-end, back-end e banco de dados, sem deixar de lado a curiosidade por **IA** e **ciência de dados**.  
-
----
-
-### 📚 O que estou estudando no momento  
-- ⚡ **Angular** (Front-end)  
-- ☕ **Java Spring** (Back-end)  
-- 🛢️ **SQL/PostgreSQL** (Banco de Dados)  
-- 🐍 **Python & IA** (Projetos pessoais)  
-
----
-
-### 🚀 Minhas Skills  
-#### 🔹 **Linguagens e Tecnologias**  
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-
-#### 🔹 **Ferramentas e Outros**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)  
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)  
-
----
-
-### 📊 Estatísticas do GitHub  
 <div align="center">
-  <a href="https://github.com/viniassuncao1">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniassuncao1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniassuncao1&layout=compact&langs_count=7&theme=dark"/>
-  </a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,6&height=250&section=header&text=Vin%C3%ADcius%20Machado&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Full%20Stack%20%7C%20Java%20%2B%20Spring%20%2B%20Angular&descAlignY=52&descSize=20" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Construindo+sistemas+em+produ%C3%A7%C3%A3o+na+Memora;Co-fundador+%40+Watts+Company;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+UniCEUB;Curioso+por+Dados+%26+IA+%F0%9F%A4%96" alt="Typing SVG" />
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/viniassuncao/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/viniassuncao1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.instagram.com/vini.assuncao/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="mailto:viniciusmassuncao@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
 </div>
 
----
+<br/>
 
-### 📫 Onde me encontrar  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iniciusassuncao/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/viniassuncao1)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vini.assuncao/)  
+## 👨‍💻 Sobre mim
 
-Seja bem-vindo ao meu perfil! 😊  
+Construo e mantenho sistemas **Java Spring Boot + Angular** em produção na **Memora Processos Inovadores**, onde também sou referência técnica do squad — reviso código e apoio estagiários e trainees. Co-fundo a **Watts Company**, uma agência onde crio produtos full stack com IA do zero. Estudo **Ciência da Computação** no UniCEUB e mantenho um interesse forte por **dados e inteligência artificial**.
+
+```python
+class Vini:
+    def __init__(self):
+        self.cargo = "Desenvolvedor Full Stack"
+        self.stack = ["Java", "Spring Boot", "Angular", "SQL", "Python"]
+        self.aprendendo = ["IA generativa", "Ciência de Dados"]
+        self.disponivel_para = "novas oportunidades 🚀"
+```
+
+<br/>
+
+## 🚀 Projetos em destaque
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 FisioCare
+Painel de gestão para clínica de fisioterapia, **em produção**: CRM de pacientes, agenda, financeiro e agente de IA que agenda consultas por WhatsApp.
+
+`Supabase` `n8n` `GPT-4` `Vercel`
+
+</td>
+<td width="50%" valign="top">
+
+### 📋 AyoForms
+Plataforma interna que substituiu o Microsoft Forms: votação, painel administrativo, exportação CSV e login corporativo via Azure AD.
+
+`PHP 8` `MVC` `MySQL`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,ts,js,postgres,mysql,python,git,gitlab,docker,vscode&theme=dark" />
+</p>
+
+<br/>
+
+## 📊 Destaques da carreira
+
+<div align="center">
+
+| 🕒 Experiência | 🏢 Empresas | 🧩 Funcionalidades entregues | 👥 Liderança |
+|:---:|:---:|:---:|:---:|
+| **2+ anos** em produção | **Memora** & **Watts Company** | **7+** em sistemas críticos (faturamento, pagamento, autenticação) | Referência técnica de squad (estagiários e trainees) |
+
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=viniassuncao1&theme=tokyonight&hide_border=true&background=0D1117" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=viniassuncao1&style=for-the-badge&color=58A6FF&label=Visualiza%C3%A7%C3%B5es+do+perfil" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,4,2&height=120&section=footer" width="100%"/>
